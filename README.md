@@ -1,5 +1,7 @@
 npm i
 
+npm install -g expo-cli
+
 npx expo start
 
 ![485083871_2075807172843895_7667347040529620597_n](https://github.com/user-attachments/assets/7894eb35-156b-46e3-8ec8-f5882d5dcca2)
